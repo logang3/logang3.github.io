@@ -1,0 +1,22 @@
+# style guide
+## versioning
+### semantic versioning
+`#.#.#`
+incompatibilities, new features, bug fixes
+e.g. garage gym set up
+### incremental versioning
+Mark/Generation/Type
+1/I/A
+For things that just increment
+e.g. Chittivej family map
+## mediums
+### Communications
+Report: Long, technical
+Memo: short, technical
+Letter: long, personal
+Message: short, personal
+
+## styles
+'Proper' English
+ALL CAPS
+all small case
