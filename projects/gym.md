@@ -4,7 +4,7 @@ june 22, 2019
 - rogue folding rack  
 - 45lb bar  
 - 2 ea 5, 10, 15, 25, 35, 45 plates  
--flat bench  
+- flat bench  
 ### 1.1.0
 july 18, 2019  
 - sliders  

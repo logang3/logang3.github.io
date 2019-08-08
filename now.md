@@ -10,7 +10,7 @@ I'm working on creating a family map of my wife's side of the family. I hope to 
 
 I haven't been doing as much reading as I'd like; I'm waiting for some books to be released this fall.  
 
-The last movie we watched in the [Summer of Marvel](/projects/summer-of-marvel/) was Doctor Strange.
+The last movie we watched in the [Summer of Marvel](/projects/summer-of-marvel) was Doctor Strange.
 
 ---
 
