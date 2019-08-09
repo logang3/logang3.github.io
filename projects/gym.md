@@ -9,6 +9,7 @@ June 22, 2019
 - sliders
 - squat sponge
 - floor mat
+---
 ## 1.X.1
 fix lower stringer
 ## 1.X.0?
