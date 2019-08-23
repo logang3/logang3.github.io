@@ -44,7 +44,11 @@ A project undertaken by me and my wife to watch the Marvel Cinematic Universe in
 	- Kayla: B
 	- Logan: Great
 15. Guardians of the Galaxy Vol. 2 (2017)
+	- Kayla: C
+	- Logan: Good
 16. Spider-Man: Homecoming (2017)
+	- Kayla: A
+	- Logan: ~~Good~~ Great
 17. Thor: Ragnarok (2017)
 18. Black Panther (2018)
 19. Avengers: Infinity War (2018)
