@@ -13,5 +13,5 @@ this site is currently under construction
 > coming soon
 
 ## [recipes](/recipes)
-- [chocolate chip cookies v2](/recipes/chocolate-chip-cookies-v2)
-- [granola](/recipes/granola)
+- [chocolate chip cookies v2](/recipes/chocolate-chip-cookies-v2.pdf)
+- [granola](/recipes/granola.pdf)
