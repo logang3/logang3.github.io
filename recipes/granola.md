@@ -1,0 +1,14 @@
+# Granola
+1. preheat oven to 325°F
+2. mix 3 cups rolled oats, ½ cup honey, and spices
+	* i like to do _lots_ of cinnamon and some cardamom
+	* we used to add ½ cup almonds, but you can't take things with nuts to schools
+3. cook for 15 minutes
+4. stir to evenly distribute honey
+5. cook for 12.5 minutes
+6. stir to prevent clumping
+7. cool
+8. add dried fruit
+	* we do blueberries, cherries, coconuts, strawberries, raspberries, blackberries, pineapple chunks, whatever we feel like
+9. save or eat
+	* my dad likes to eat his with milk 
