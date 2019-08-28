@@ -1,17 +1,1 @@
-# Now
-
-In addition to my day job, I am currently taking System Test & Evaluation, my fifth of ten classes.  
-
-I am still occasionally writing at [hencefarthing](hencefarthing.blog); Alex and I have a collaboration post in work right now.  
-
-I've gotten a lot more into weight lifting lately, and I'm trying to wrap up a couple house projects before summer ends.  
-
-I'm working on creating a family map of my wife's side of the family. I hope to have it done by the next wedding. I'm setting up this very website. Lately I've been playing a lot of Minecraft with Alex.  
-
-I haven't been doing as much reading as I'd like; I'm waiting for some books to be released this fall.  
-
-The last movie we watched in the [Summer of Marvel](/projects/summer-of-marvel) was Spider-Man: Homecoming.
-
----
-
-This is a [now page](https://nownownow.com/about).
+%23%20Now%0A%0AIn%20addition%20to%20my%20day%20job%2C%20I%20am%20currently%20taking%20System%20Test%20%26%20Evaluation%2C%20my%20fifth%20of%20ten%20classes.%20%20%0A%0AI%20am%20still%20occasionally%20writing%20at%20%5Bhencefarthing%5D%28hencefarthing.blog%29%3B%20Alex%20and%20I%20have%20a%20collaboration%20post%20in%20work%20right%20now.%20%20%0A%0AI%27ve%20gotten%20a%20lot%20more%20into%20weight%20lifting%20lately%2C%20and%20I%27m%20trying%20to%20wrap%20up%20a%20couple%20house%20projects%20before%20summer%20ends.%20%20%0A%0AI%27m%20working%20on%20creating%20a%20family%20map%20of%20my%20wife%27s%20side%20of%20the%20family.%20I%20hope%20to%20have%20it%20done%20by%20the%20next%20wedding.%20I%27m%20setting%20up%20this%20very%20website.%20Lately%20I%27ve%20been%20playing%20a%20lot%20of%20Minecraft%20with%20Alex.%20%20%0A%0AI%20haven%27t%20been%20doing%20as%20much%20reading%20as%20I%27d%20like%3B%20I%27m%20waiting%20for%20some%20books%20to%20be%20released%20this%20fall.%20%20%0A%0AThe%20last%20movie%20we%20watched%20in%20the%20%5BSummer%20of%20Marvel%5D%28/projects/summer-of-marvel%29%20was%20Thor%3A%20Ragnarok.%0A%0A---%0A%0AThis%20is%20a%20%5Bnow%20page%5D%28https%3A//nownownow.com/about%29.

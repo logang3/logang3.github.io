@@ -1,17 +1,1 @@
-# hello!
-this site is currently under construction
-
-## me
-- [now](/now)  
-- [about](/about)  
-
-## [projects](/projects)
-- [garage gym](/projects/gym)  
-- [style guide](/projects/style)  
-
-## ruminations
-> coming soon
-
-## [recipes](/recipes)
-- [chocolate chip cookies v2](/recipes/chocolate-chip-cookies-v2.pdf)
-- [granola](/recipes/granola.pdf)
+%23%20logangee.net%0A_%2A%2Athis%20site%20is%20currently%20under%20construction%2A%2A_%0A%0A---%0A%0A-%20%5Babout%5D%28/about%29%0A-%20%5Bnow%5D%28/now%29%0A%0A---%0A%0A-%20%5Bprojects%5D%28/projects%29%0A-%20%5Brecipes%5D%28/recipes%29%0A-%20%5Bruminations%5D%28/ruminations%29%0A%0A
