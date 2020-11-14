@@ -2,11 +2,11 @@ title: About logangee.net
 
 # About
 
-Maybe someday I'll write more about me here. But for now. all you need to now can be found on my [now page](/now/).
+Maybe someday I'll write more about me here. But for now. all you need to now can be found on my [now page](now).
 
 ## Colophon
-This site is hosted on [GitHub Pages](pages.github.com). Domain name managed through [Hover](hover.com).  
+This site is hosted on [GitHub Pages](https://pages.github.com). Domain name managed through [Hover](https://hover.com).  
 
-I write every post in [MultiMarkDown](https://fletcherpenney.net/multimarkdown/) using the iOS app [Drafts 5](getdrafts.com). I custom-built a few Drafts actions to build each page in HTML and send `*.html` and `*.text` versions to [Working Copy](workingcopyapp.com), then push the changes to GitHub.[^1]
+I write every post in [MultiMarkDown](https://fletcherpenney.net/multimarkdown/) using the iOS app [Drafts 5](https://getdrafts.com). I custom-built a few Drafts actions to build each page in HTML and send `*.html` and `*.text` versions to [Working Copy](https://workingcopyapp.com), then push the changes to GitHub.[^1]
 
 [^1]: This means that on _any_ page, you can change the file extension to `.text` and see the plain text version as I originally wrote it.
